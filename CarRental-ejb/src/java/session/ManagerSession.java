@@ -12,10 +12,7 @@ import rental.CarRentalCompany;
 import rental.CarType;
 import rental.RentalStore;
 
-/**
- *
- * @author Gertjan
- */
+
 @Stateless
 public class ManagerSession implements ManagerSessionRemote {
 
